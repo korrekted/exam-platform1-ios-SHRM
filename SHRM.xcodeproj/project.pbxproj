@@ -196,14 +196,11 @@
 		9613F138263A8EED00DAEB9A /* OSlide9TagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F06C263A8EEC00DAEB9A /* OSlide9TagView.swift */; };
 		9613F139263A8EED00DAEB9A /* OSlideQuestiionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F06D263A8EEC00DAEB9A /* OSlideQuestiionButton.swift */; };
 		9613F13A263A8EED00DAEB9A /* OSlide6Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F06E263A8EEC00DAEB9A /* OSlide6Cell.swift */; };
-		9613F13B263A8EED00DAEB9A /* OSlide2GenderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F06F263A8EEC00DAEB9A /* OSlide2GenderView.swift */; };
-		9613F13C263A8EED00DAEB9A /* OSlide3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F070263A8EEC00DAEB9A /* OSlide3View.swift */; };
 		9613F13D263A8EED00DAEB9A /* OSlide14View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F071263A8EEC00DAEB9A /* OSlide14View.swift */; };
 		9613F13E263A8EED00DAEB9A /* OSlide4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F072263A8EEC00DAEB9A /* OSlide4View.swift */; };
 		9613F13F263A8EED00DAEB9A /* OSlide9View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F073263A8EEC00DAEB9A /* OSlide9View.swift */; };
 		9613F140263A8EED00DAEB9A /* OSlideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F074263A8EEC00DAEB9A /* OSlideView.swift */; };
 		9613F141263A8EED00DAEB9A /* OSlideQuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F075263A8EEC00DAEB9A /* OSlideQuestionView.swift */; };
-		9613F142263A8EED00DAEB9A /* OSlide2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F076263A8EEC00DAEB9A /* OSlide2View.swift */; };
 		9613F143263A8EED00DAEB9A /* OSlide15View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F077263A8EEC00DAEB9A /* OSlide15View.swift */; };
 		9613F144263A8EED00DAEB9A /* OSlide7View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F078263A8EEC00DAEB9A /* OSlide7View.swift */; };
 		9613F145263A8EED00DAEB9A /* OSlide1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9613F079263A8EEC00DAEB9A /* OSlide1View.swift */; };
@@ -412,14 +409,11 @@
 		9613F06C263A8EEC00DAEB9A /* OSlide9TagView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide9TagView.swift; sourceTree = "<group>"; };
 		9613F06D263A8EEC00DAEB9A /* OSlideQuestiionButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlideQuestiionButton.swift; sourceTree = "<group>"; };
 		9613F06E263A8EEC00DAEB9A /* OSlide6Cell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide6Cell.swift; sourceTree = "<group>"; };
-		9613F06F263A8EEC00DAEB9A /* OSlide2GenderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide2GenderView.swift; sourceTree = "<group>"; };
-		9613F070263A8EEC00DAEB9A /* OSlide3View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide3View.swift; sourceTree = "<group>"; };
 		9613F071263A8EEC00DAEB9A /* OSlide14View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide14View.swift; sourceTree = "<group>"; };
 		9613F072263A8EEC00DAEB9A /* OSlide4View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide4View.swift; sourceTree = "<group>"; };
 		9613F073263A8EEC00DAEB9A /* OSlide9View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide9View.swift; sourceTree = "<group>"; };
 		9613F074263A8EEC00DAEB9A /* OSlideView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlideView.swift; sourceTree = "<group>"; };
 		9613F075263A8EEC00DAEB9A /* OSlideQuestionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlideQuestionView.swift; sourceTree = "<group>"; };
-		9613F076263A8EEC00DAEB9A /* OSlide2View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide2View.swift; sourceTree = "<group>"; };
 		9613F077263A8EEC00DAEB9A /* OSlide15View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide15View.swift; sourceTree = "<group>"; };
 		9613F078263A8EEC00DAEB9A /* OSlide7View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide7View.swift; sourceTree = "<group>"; };
 		9613F079263A8EEC00DAEB9A /* OSlide1View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide1View.swift; sourceTree = "<group>"; };
@@ -1236,13 +1230,11 @@
 				9613F063263A8EEC00DAEB9A /* OSlide5View.swift */,
 				9613F064263A8EEC00DAEB9A /* OSlide8View.swift */,
 				9613F065263A8EEC00DAEB9A /* Atoms */,
-				9613F070263A8EEC00DAEB9A /* OSlide3View.swift */,
 				9613F071263A8EEC00DAEB9A /* OSlide14View.swift */,
 				9613F072263A8EEC00DAEB9A /* OSlide4View.swift */,
 				9613F073263A8EEC00DAEB9A /* OSlide9View.swift */,
 				9613F074263A8EEC00DAEB9A /* OSlideView.swift */,
 				9613F075263A8EEC00DAEB9A /* OSlideQuestionView.swift */,
-				9613F076263A8EEC00DAEB9A /* OSlide2View.swift */,
 				9613F077263A8EEC00DAEB9A /* OSlide15View.swift */,
 				9613F078263A8EEC00DAEB9A /* OSlide7View.swift */,
 				9613F079263A8EEC00DAEB9A /* OSlide1View.swift */,
@@ -1262,7 +1254,6 @@
 				9613F06C263A8EEC00DAEB9A /* OSlide9TagView.swift */,
 				9613F06D263A8EEC00DAEB9A /* OSlideQuestiionButton.swift */,
 				9613F06E263A8EEC00DAEB9A /* OSlide6Cell.swift */,
-				9613F06F263A8EEC00DAEB9A /* OSlide2GenderView.swift */,
 			);
 			path = Atoms;
 			sourceTree = "<group>";
@@ -1446,7 +1437,6 @@
 			files = (
 				9613F102263A8EED00DAEB9A /* AVPlayerView.swift in Sources */,
 				9613F13E263A8EED00DAEB9A /* OSlide4View.swift in Sources */,
-				9613F13C263A8EED00DAEB9A /* OSlide3View.swift in Sources */,
 				9613F0F4263A8EED00DAEB9A /* QuestionsCollectionView.swift in Sources */,
 				9613F11F263A8EED00DAEB9A /* CoursesCollectionView.swift in Sources */,
 				9613F0A0263A8EEC00DAEB9A /* PaygateOption.swift in Sources */,
@@ -1520,7 +1510,6 @@
 				9613F110263A8EED00DAEB9A /* TestStatsProgressElement.swift in Sources */,
 				9613F126263A8EED00DAEB9A /* StatsView.swift in Sources */,
 				9613F11C263A8EED00DAEB9A /* CoursesViewModel.swift in Sources */,
-				9613F142263A8EED00DAEB9A /* OSlide2View.swift in Sources */,
 				9613F0F5263A8EED00DAEB9A /* QuestionViewCell.swift in Sources */,
 				9613F12B263A8EED00DAEB9A /* MainStatsDescriptionLineView.swift in Sources */,
 				9613F101263A8EED00DAEB9A /* AnswerView.swift in Sources */,
@@ -1633,7 +1622,6 @@
 				9613F12D263A8EED00DAEB9A /* CourseProgressView.swift in Sources */,
 				9613F0B3263A8EED00DAEB9A /* SendAnswerResponseMapper.swift in Sources */,
 				9613F092263A8EEC00DAEB9A /* PaddingPickerView.swift in Sources */,
-				9613F13B263A8EED00DAEB9A /* OSlide2GenderView.swift in Sources */,
 				9613F141263A8EED00DAEB9A /* OSlideQuestionView.swift in Sources */,
 				9613F0A4263A8EEC00DAEB9A /* PaygateMainOffer.swift in Sources */,
 				9613F09E263A8EEC00DAEB9A /* PaygateMapper.swift in Sources */,
@@ -1776,6 +1764,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 2W4U9UWRKZ;
 				INFOPLIST_FILE = "$(SRCROOT)/SHRM/Resource/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
@@ -1783,7 +1772,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = exam.shrm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "SHRM Development Profile";
@@ -1801,6 +1790,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 2W4U9UWRKZ;
 				INFOPLIST_FILE = "$(SRCROOT)/SHRM/Resource/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
@@ -1808,7 +1798,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = exam.shrm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "SHRM AppStore Profile";
