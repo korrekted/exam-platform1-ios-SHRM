@@ -58,7 +58,7 @@ private extension SplashView {
             .textAlignment(.center)
         
         let attrs2 = TextAttributes()
-            .textColor(UIColor(integralRed: 248, green: 221, blue: 105))
+            .textColor(Appearance.progress3Color)
             .font(Fonts.SFProRounded.bold(size: 45.scale))
             .lineHeight(53.scale)
             .textAlignment(.center)
