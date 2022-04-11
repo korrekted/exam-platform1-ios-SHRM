@@ -59,16 +59,17 @@ private extension TestViewModel {
     }
     
     func makeQestions() -> Observable<[QuestionElement]> {
-        let questions = testElement
-            .compactMap { $0.element?.questions }
-        
-        let dataSource = Observable
-            .combineLatest(questions, selectedAnswers)
-            .withLatestFrom(testMode) { ($0.0, $0.1, $1) }
-            .scan([], accumulator: questionAccumulator)
-        
-        return dataSource
-    }
+            let questions = testElement
+                .compactMap { $0.element?.questions }
+            
+            let mode = testMode.asObservable()
+            
+            let dataSource = Observable
+                .combineLatest(questions, selectedAnswers, mode) { ($0, $1, $2) }
+                .scan([], accumulator: questionAccumulator)
+            
+            return dataSource
+        }
     
     func makeSelectedAnswers() -> Observable<AnswerElement?> {
         didTapConfirm
